@@ -56,7 +56,7 @@ plugins:
 
 author:
   name   : "Alex Carreon"
-  avatar : "/assets/images/bio-photo.jpg"
+  avatar : "/assets/images/bio-photo.png"
   bio    : "I'm Alex Carreon, a BS Informations System senior graduating this 2026. "
   links:
     - label: "Twitter"
