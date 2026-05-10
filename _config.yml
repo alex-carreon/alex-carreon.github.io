@@ -59,15 +59,15 @@ author:
   avatar : "/assets/images/bio-photo.png"
   bio    : "I'm Alex Carreon, a BS Informations System senior graduating this 2026. "
   links:
-    - label: "Twitter"
-      icon: "fab fa-fw fa-twitter-square"
-      url: "https://twitter.com/"
     - label: "GitHub"
       icon: "fab fa-fw fa-github"
       url: "https://github.com/alex-carreon"
-    - label: "Instagram"
-      icon: "fab fa-fw fa-instagram"
-      url: "https://instagram.com/"
+    - label: "LinkedIn"
+      icon: "fab fa-fw fa-linkedin"
+      url: "https://www.linkedin.com/in/alex-carreon/"
+    - label: "The Benildean"
+      icon: "fab fa-fw fa-pen"
+      url: "https://read.thebenildean.org/author/alex-carreon"
       
 
 footer:
@@ -78,9 +78,7 @@ footer:
     - label: "LinkedIn"
       icon: "fab fa-fw fa-linkedin"
       url: "https://www.linkedin.com/in/alex-carreon/"
-    - label: "The Benildean"
-      icon: "fas fa-fw fa-link"
-      url: "https://read.thebenildean.org/author/alex-carreon"
+
 
 defaults:
   # _posts
