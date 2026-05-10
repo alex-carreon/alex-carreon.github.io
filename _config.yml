@@ -13,10 +13,10 @@
 # you will see them accessed via {{ site.title }}, {{ site.email }}, and so on.
 # You can create any custom variable you would like, and they will be accessible
 # in the templates via {{ site.myvariable }}.
-title: Alex Carreon
+title: 
 email:
 description: >- # this means to ignore newlines until "baseurl:"
-  "Hi! I'm Alex and this is my portfolio site. Feel free to reach out to me through LinkedIn if you're interested in together!"
+  
 github_username: alex-carreon
 minimal_mistakes_skin: contrast
 search: false
@@ -57,7 +57,7 @@ plugins:
 author:
   name   : "Alex Carreon"
   avatar : "/assets/images/bio-photo.png"
-  bio    : "I'm Alex Carreon, a BS Informations System senior graduating this 2026. "
+  bio    : " "
   links:
     - label: "GitHub"
       icon: "fab fa-fw fa-github"
