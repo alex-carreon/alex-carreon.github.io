@@ -1,10 +1,13 @@
 ---
-layout: splash
-title: "eLikas: Crowdsourced Flood Monitoring & Evacuation Routing"
+layout: single 
+classes: wide
+title: "eLikas (College Capstone)"
 excerpt: "A Progressive Web App (PWA) designed to provide real-time flood data and safe routing for communities."
 header:
   overlay_image: /assets/images/elikas-banner.png
   overlay_filter: 0.5
+  teaser: /assets/images/elikas-teaser.png
+author_profile: true
 ---
 
 **eLikas** is a response to the challenges of urban flooding in the Philippines. It combines crowdsourced reporting with physical IoT sensor data to provide residents with an accurate, real-time map of flood levels and safe evacuation routes.
