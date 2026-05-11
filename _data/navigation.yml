@@ -1,3 +1,5 @@
 main:
-  # - title: "Tech Stack"
-  #   url: /tech-stack/
+  - title: "Tech Stack"
+    url: /tech-stack/
+  - title: "Certifications"
+    url: /certifications/
