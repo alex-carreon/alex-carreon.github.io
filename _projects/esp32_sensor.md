@@ -24,10 +24,7 @@ I assembled the prototype from readily available components, combining two 18650
 
 For the enclosure, I repurposed a **weatherproof outdoor junction box** with a transparent cover rather than fabricating a custom housing. I used a mini hand drill to cut and fit the openings for the sensor, controls, and other interfaces, allowing the electronics to remain protected while keeping the important physical components accessible.
 
-The hardware design was paired with **over-the-air (OTA) firmware updates through
-GitHub Releases**. This allows deployed units to receive firmware improvements
-remotely, reducing the need to physically access each sensor when fixing bugs or
-adding functionality.
+The hardware design was paired with **over-the-air (OTA) firmware updates through GitHub Releases**. This allows deployed units to receive firmware improvements remotely, reducing the need to physically access each sensor when fixing bugs or adding functionality.
 
 
 ### From Measurement to Data
@@ -51,3 +48,5 @@ Once a reading is collected, the ESP32 packages the measurement as **JSON** and 
 ```
 
 The API receives the payload, processes the measurement, and surfaces it on the platform, allowing it to become another source of real-time information on the eLikas map alongside crowdsourced reports.
+
+<img src="/assets/images/elikas-sensors.png">
